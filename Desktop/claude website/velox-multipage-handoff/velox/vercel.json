@@ -1,0 +1,37 @@
+{
+  "trailingSlash": true,
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/shop",
+      "destination": "/compounds/",
+      "permanent": true
+    },
+    {
+      "source": "/shop/(.*)",
+      "destination": "/compounds/$1",
+      "permanent": true
+    },
+    {
+      "source": "/product/(.*)",
+      "destination": "/compounds/$1",
+      "permanent": true
+    },
+    {
+      "source": "/products/(.*)",
+      "destination": "/compounds/$1",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python append_css.py)",
+      "Bash(py --version)",
+      "Bash(py -3 --version)",
+      "PowerShell($paths = @\\(\"C:\\\\Python312\\\\python.exe\",\"C:\\\\Python311\\\\python.exe\",\"C:\\\\Python310\\\\python.exe\",\"C:\\\\Python39\\\\python.exe\",\"C:\\\\Python38\\\\python.exe\",\"$env:LOCALAPPDATA\\\\Programs\\\\Python\\\\Python312\\\\python.exe\",\"$env:LOCALAPPDATA\\\\Programs\\\\Python\\\\Python311\\\\python.exe\",\"$env:LOCALAPPDATA\\\\Programs\\\\Python\\\\Python310\\\\python.exe\"\\); foreach\\($p in $paths\\){if\\(Test-Path $p\\){Write-Output $p}})",
+      "PowerShell(where.exe python 2>$null; where.exe python3 2>$null; $env:PATH -split \";\" | Where-Object { $_ -match -join\\(\"python\",\"\",\"\"\\) })",
+      "PowerShell($possible = @\\(\"$env:USERPROFILE\\\\anaconda3\\\\python.exe\",\"$env:USERPROFILE\\\\miniconda3\\\\python.exe\",\"$env:USERPROFILE\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python312\\\\python.exe\",\"$env:USERPROFILE\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python311\\\\python.exe\",\"C:\\\\ProgramData\\\\Anaconda3\\\\python.exe\",\"C:\\\\tools\\\\python\\\\python.exe\"\\); foreach\\($p in $possible\\){if\\(Test-Path $p\\){Write-Output \"FOUND: $p\"}})",
+      "PowerShell(Get-ChildItem \"$env:USERPROFILE\" -Filter \"python.exe\" -Recurse -Depth 5 -ErrorAction SilentlyContinue | Select-Object -First 5 FullName; Get-ChildItem \"C:\\\\Program Files\" -Filter \"python.exe\" -Recurse -Depth 5 -ErrorAction SilentlyContinue | Select-Object -First 5 FullName)",
+      "Bash(python3 -c \"import json; data=json.load\\(open\\('C:/Users/hoban/Desktop/claude website/velox-multipage-handoff/velox/src/data/compounds.json'\\)\\); print\\([c['slug'] for c in data]\\)\")",
+      "Bash(python -c \"import json; data=json.load\\(open\\('C:/Users/hoban/Desktop/claude website/velox-multipage-handoff/velox/src/data/compounds.json'\\)\\); print\\([c['slug'] for c in data]\\)\")",
+      "Bash(PowerShell.exe -Command \"Get-Content 'C:/Users/hoban/Desktop/claude website/velox-multipage-handoff/velox/src/data/compounds.json' | Select-String '\\\\\"slug\\\\\"'\")",
+      "Bash(python generate.py)",
+      "WebFetch(domain:veloxpeps.com)",
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "Bash(Select-String -Path \"C:\\\\Users\\\\hoban\\\\Desktop\\\\claude website\\\\velox-multipage-handoff\\\\velox\\\\output\\\\index.html\" -Pattern \"hp-soc-row|hp-soc-card|hp-comm-block\")",
+      "Bash(Select-Object -First 5)",
+      "Bash(python3 -c \"import json; c=json.load\\(open\\('compounds.json'\\)\\); print\\([x['slug'] for x in c]\\)\")",
+      "Bash(python3 -c ' *)",
+      "Bash(findstr \"hamburger\")",
+      "Bash(python src/generate.py)",
+      "Bash(copy \"src\\\\assets\\\\css\\\\core.css\" \"output\\\\assets\\\\css\\\\core.css\")",
+      "Bash(npm install *)"
+    ]
+  }
+}

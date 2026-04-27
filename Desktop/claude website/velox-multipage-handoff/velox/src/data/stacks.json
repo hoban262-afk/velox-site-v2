@@ -1,0 +1,713 @@
+[
+  {
+    "id": 101,
+    "slug": "cognitive",
+    "name": "Cognitive Stack",
+    "fullName": "Semax + Selank",
+    "category": "stacks",
+    "categoryLabel": "Stacks",
+    "categorySlug": "stacks",
+    "cas": "80714-61-0 / 129954-34-3",
+    "formula": "Semax 10mg · Selank 10mg",
+    "molecularWeight": null,
+    "sequence": null,
+    "purity": 99,
+    "sizes": [
+      {
+        "l": "Semax 10mg + Selank 10mg",
+        "p": 55.98,
+        "origPrice": 74.98,
+        "savePct": 25
+      }
+    ],
+    "description": "Research bundle pairing two of the most studied cognitive-focused peptides in preclinical neuroscience. Semax is investigated for BDNF upregulation and neuroprotective effects in brain tissue models; Selank is studied for calmer behavioural profiles in rodents without sedation, alongside serotonergic and GABAergic pathway modulation. Both have been the subject of research in Eastern European neuroscience institutions. Two individual lyophilised vials. For in vitro research use only.",
+    "shortDesc": "Research bundle pairing two of the most studied cognitive-focused peptides in preclinical neuroscience. Semax is investigated for BDNF upregulation and neuroprotective effects in brain tissue models; Selank is studied for calmer behavioural profiles in rodents without sedation, alongside serotonergic and GABAergic pathway modulation.",
+    "origPriceRange": 74.98,
+    "isRecentlyAdded": false,
+    "faq": [
+      {
+        "q": "What purity is Velox Peptides Cognitive Stack?",
+        "a": "Cognitive Stack is supplied at 99% HPLC-verified purity. A certificate of analysis is provided with every order. Every batch is third-party tested before dispatch."
+      },
+      {
+        "q": "How is Cognitive Stack supplied and reconstituted for research use?",
+        "a": "Cognitive Stack is supplied as a lyophilised powder in sterile single-use vials. For in vitro research use, reconstitution is performed with bacteriostatic water. See the <a href=\"/tools/reconstitution-calculator/\">reconstitution calculator</a> for volume calculations based on required concentration."
+      },
+      {
+        "q": "What is Cognitive Stack used for in preclinical research?",
+        "a": "Cognitive Stack is studied in the peer-reviewed literature across the pathways described in the research overview above. Velox Peptides supplies Cognitive Stack strictly as a research reagent for in vitro use by qualified researchers. It is not a medicinal product and is not for human or veterinary consumption."
+      },
+      {
+        "q": "What is the CAS number for Cognitive Stack?",
+        "a": "The CAS registry number for Cognitive Stack is 80714-61-0 / 129954-34-3. This identifier is listed on every batch certificate of analysis supplied with orders."
+      }
+    ],
+    "url": "/stacks/cognitive/",
+    "components": [
+      "semax",
+      "selank"
+    ],
+    "categoryTags": [
+      "cognitive"
+    ],
+    "componentPills": [
+      {
+        "name": "Semax",
+        "size": "10mg",
+        "price": 34.99,
+        "url": "/compounds/semax/"
+      },
+      {
+        "name": "Selank",
+        "size": "10mg",
+        "price": 39.99,
+        "url": "/compounds/selank/"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "slug": "cognitive-and-sleep",
+    "name": "Cognitive & Sleep Stack",
+    "fullName": "Semax + Selank + DSIP",
+    "category": "stacks",
+    "categoryLabel": "Stacks",
+    "categorySlug": "stacks",
+    "cas": "80714-61-0 / 129954-34-3 / 62568-57-4",
+    "formula": "Semax 10mg · Selank 10mg · DSIP 10mg",
+    "molecularWeight": null,
+    "sequence": null,
+    "purity": 98.7,
+    "sizes": [
+      {
+        "l": "Semax 10mg + Selank 10mg + DSIP 10mg",
+        "p": 79.98,
+        "origPrice": 119.97,
+        "savePct": 33
+      }
+    ],
+    "description": "Research bundle combining three neuropeptides studied across distinct but related neurological pathways. Semax is investigated for BDNF expression and neuroprotection; Selank for anxiolytic-like profiles and serotonergic modulation; DSIP for its effects on slow-wave sleep architecture and stress-axis signalling. Together they cover cognitive, stress-response, and sleep regulation pathway research in a single bundle. Three individual lyophilised vials. For in vitro research use only.",
+    "shortDesc": "Research bundle combining three neuropeptides studied across distinct but related neurological pathways. Semax is investigated for BDNF expression and neuroprotection; Selank for anxiolytic-like profiles and serotonergic modulation; DSIP for its effects on slow-wave sleep architecture and stress-axis signalling.",
+    "origPriceRange": 119.97,
+    "isRecentlyAdded": false,
+    "faq": [
+      {
+        "q": "What purity is Velox Peptides Cognitive & Sleep Stack?",
+        "a": "Cognitive & Sleep Stack is supplied at 98.7% HPLC-verified purity. A certificate of analysis is provided with every order. Every batch is third-party tested before dispatch."
+      },
+      {
+        "q": "How is Cognitive & Sleep Stack supplied and reconstituted for research use?",
+        "a": "Cognitive & Sleep Stack is supplied as a lyophilised powder in sterile single-use vials. For in vitro research use, reconstitution is performed with bacteriostatic water. See the <a href=\"/tools/reconstitution-calculator/\">reconstitution calculator</a> for volume calculations based on required concentration."
+      },
+      {
+        "q": "What is Cognitive & Sleep Stack used for in preclinical research?",
+        "a": "Cognitive & Sleep Stack is studied in the peer-reviewed literature across the pathways described in the research overview above. Velox Peptides supplies Cognitive & Sleep Stack strictly as a research reagent for in vitro use by qualified researchers. It is not a medicinal product and is not for human or veterinary consumption."
+      },
+      {
+        "q": "What is the CAS number for Cognitive & Sleep Stack?",
+        "a": "The CAS registry number for Cognitive & Sleep Stack is 80714-61-0 / 129954-34-3 / 62568-57-4. This identifier is listed on every batch certificate of analysis supplied with orders."
+      }
+    ],
+    "url": "/stacks/cognitive-and-sleep/",
+    "components": [
+      "semax",
+      "selank",
+      "dsip"
+    ],
+    "categoryTags": [
+      "cognitive"
+    ],
+    "componentPills": [
+      {
+        "name": "Semax",
+        "size": "10mg",
+        "price": 34.99,
+        "url": "/compounds/semax/"
+      },
+      {
+        "name": "Selank",
+        "size": "10mg",
+        "price": 39.99,
+        "url": "/compounds/selank/"
+      },
+      {
+        "name": "DSIP",
+        "size": "10mg",
+        "price": 44.99,
+        "url": "/compounds/dsip/"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "slug": "gh-peptide",
+    "name": "GH Peptide Stack",
+    "fullName": "CJC-1295 wo DAC + Tesamorelin",
+    "category": "stacks",
+    "categoryLabel": "Stacks",
+    "categorySlug": "stacks",
+    "cas": "863288-34-0 / 218949-48-9",
+    "formula": "CJC-1295 wo DAC 10mg · Tesamorelin 15mg",
+    "molecularWeight": null,
+    "sequence": null,
+    "purity": 98.6,
+    "sizes": [
+      {
+        "l": "CJC-1295 wo DAC 10mg + Tesamorelin 15mg",
+        "p": 99.98,
+        "origPrice": 179.98,
+        "savePct": 44
+      }
+    ],
+    "description": "Research bundle combining two growth hormone-releasing hormone analogues with complementary properties. CJC-1295 without DAC produces a shorter, more physiologically pulsatile GH release pattern; Tesamorelin offers a longer active window with an established clinical research dataset. Together they allow comparison of different GHRH analogue profiles in GH secretion research. Two individual lyophilised vials. For in vitro research use only.",
+    "shortDesc": "Research bundle combining two growth hormone-releasing hormone analogues with complementary properties. CJC-1295 without DAC produces a shorter, more physiologically pulsatile GH release pattern; Tesamorelin offers a longer active window with an established clinical research dataset.",
+    "origPriceRange": 179.98,
+    "isRecentlyAdded": false,
+    "faq": [
+      {
+        "q": "What purity is Velox Peptides GH Peptide Stack?",
+        "a": "GH Peptide Stack is supplied at 98.6% HPLC-verified purity. A certificate of analysis is provided with every order. Every batch is third-party tested before dispatch."
+      },
+      {
+        "q": "How is GH Peptide Stack supplied and reconstituted for research use?",
+        "a": "GH Peptide Stack is supplied as a lyophilised powder in sterile single-use vials. For in vitro research use, reconstitution is performed with bacteriostatic water. See the <a href=\"/tools/reconstitution-calculator/\">reconstitution calculator</a> for volume calculations based on required concentration."
+      },
+      {
+        "q": "What is GH Peptide Stack used for in preclinical research?",
+        "a": "GH Peptide Stack is studied in the peer-reviewed literature across the pathways described in the research overview above. Velox Peptides supplies GH Peptide Stack strictly as a research reagent for in vitro use by qualified researchers. It is not a medicinal product and is not for human or veterinary consumption."
+      },
+      {
+        "q": "What is the CAS number for GH Peptide Stack?",
+        "a": "The CAS registry number for GH Peptide Stack is 863288-34-0 / 218949-48-9. This identifier is listed on every batch certificate of analysis supplied with orders."
+      }
+    ],
+    "url": "/stacks/gh-peptide/",
+    "components": [
+      "cjc-1295",
+      "tesamorelin"
+    ],
+    "categoryTags": [
+      "growth"
+    ],
+    "componentPills": [
+      {
+        "name": "CJC-1295 wo DAC",
+        "size": "10mg",
+        "price": 49.99,
+        "url": "/compounds/cjc-1295/"
+      },
+      {
+        "name": "Tesamorelin",
+        "size": "15mg",
+        "price": 129.99,
+        "url": "/compounds/tesamorelin/"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "slug": "anti-ageing",
+    "name": "Anti-Ageing Stack",
+    "fullName": "GHK-Cu + Glutathione + NAD+",
+    "category": "stacks",
+    "categoryLabel": "Stacks",
+    "categorySlug": "stacks",
+    "cas": "49557-75-7 / 70-18-8 / 53-84-9",
+    "formula": "GHK-Cu 100mg · Glutathione 1500mg · NAD+ 1000mg",
+    "molecularWeight": null,
+    "sequence": null,
+    "purity": 99,
+    "sizes": [
+      {
+        "l": "GHK-Cu 100mg + Glutathione 1500mg + NAD+ 1000mg",
+        "p": 119.98,
+        "origPrice": 242.28,
+        "savePct": 50
+      }
+    ],
+    "description": "Research bundle targeting three distinct ageing-related pathways. GHK-Cu is studied for collagen synthesis and tissue remodelling in dermatological models; L-Glutathione Reduced for cellular antioxidant defence and mitochondrial redox balance; NAD+ for sirtuin enzyme activity and DNA repair pathway function in aged cell models. Together they provide coverage of the primary cellular mechanisms investigated in ageing research. Three individual vials. For in vitro research use only.",
+    "shortDesc": "Research bundle targeting three distinct ageing-related pathways. GHK-Cu is studied for collagen synthesis and tissue remodelling in dermatological models; L-Glutathione Reduced for cellular antioxidant defence and mitochondrial redox balance; NAD+ for sirtuin enzyme activity and DNA repair pathway function in aged cell models.",
+    "origPriceRange": 242.28,
+    "isRecentlyAdded": false,
+    "faq": [
+      {
+        "q": "What purity is Velox Peptides Anti-Ageing Stack?",
+        "a": "Anti-Ageing Stack is supplied at 99% HPLC-verified purity. A certificate of analysis is provided with every order. Every batch is third-party tested before dispatch."
+      },
+      {
+        "q": "How is Anti-Ageing Stack supplied and reconstituted for research use?",
+        "a": "Anti-Ageing Stack is supplied as a lyophilised powder in sterile single-use vials. For in vitro research use, reconstitution is performed with bacteriostatic water. See the <a href=\"/tools/reconstitution-calculator/\">reconstitution calculator</a> for volume calculations based on required concentration."
+      },
+      {
+        "q": "What is Anti-Ageing Stack used for in preclinical research?",
+        "a": "Anti-Ageing Stack is studied in the peer-reviewed literature across the pathways described in the research overview above. Velox Peptides supplies Anti-Ageing Stack strictly as a research reagent for in vitro use by qualified researchers. It is not a medicinal product and is not for human or veterinary consumption."
+      },
+      {
+        "q": "What is the CAS number for Anti-Ageing Stack?",
+        "a": "The CAS registry number for Anti-Ageing Stack is 49557-75-7 / 70-18-8 / 53-84-9. This identifier is listed on every batch certificate of analysis supplied with orders."
+      }
+    ],
+    "url": "/stacks/anti-ageing/",
+    "components": [
+      "ghk-cu",
+      "glutathione",
+      "nad-plus"
+    ],
+    "categoryTags": [
+      "aging"
+    ],
+    "componentPills": [
+      {
+        "name": "GHK-Cu",
+        "size": "100mg",
+        "price": 44.99,
+        "url": "/compounds/ghk-cu/"
+      },
+      {
+        "name": "Glutathione",
+        "size": "1500mg",
+        "price": 119.99,
+        "url": "/compounds/glutathione/"
+      },
+      {
+        "name": "NAD+",
+        "size": "1000mg",
+        "price": 82.3,
+        "url": "/compounds/nad-plus/"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "slug": "metabolic",
+    "name": "Metabolic Stack",
+    "fullName": "Mots-C + NAD+ + Retatrutide",
+    "category": "stacks",
+    "categoryLabel": "Stacks",
+    "categorySlug": "stacks",
+    "cas": "n/a / 53-84-9 / n/a",
+    "formula": "Mots-C 10mg · NAD+ 1000mg · Retatrutide 20mg",
+    "molecularWeight": null,
+    "sequence": null,
+    "purity": 98.8,
+    "sizes": [
+      {
+        "l": "Mots-C 10mg + NAD+ 1000mg + Retatrutide 20mg",
+        "p": 147.98,
+        "origPrice": 222.28,
+        "savePct": 33
+      }
+    ],
+    "description": "Research bundle combining three compounds studied across complementary metabolic pathways. Mots-C is investigated for AMPK activation and mitochondrial metabolic signalling; NAD+ for sirtuin activity and cellular energy metabolism; Retatrutide for simultaneous GLP-1, GIP, and glucagon receptor engagement in metabolic regulation research. Together they represent a broad-coverage metabolic research toolkit. Three individual lyophilised vials. For in vitro research use only.",
+    "shortDesc": "Research bundle combining three compounds studied across complementary metabolic pathways. Mots-C is investigated for AMPK activation and mitochondrial metabolic signalling; NAD+ for sirtuin activity and cellular energy metabolism; Retatrutide for simultaneous GLP-1, GIP, and glucagon receptor engagement in metabolic regulation research.",
+    "origPriceRange": 222.28,
+    "isRecentlyAdded": false,
+    "faq": [
+      {
+        "q": "What purity is Velox Peptides Metabolic Stack?",
+        "a": "Metabolic Stack is supplied at 98.8% HPLC-verified purity. A certificate of analysis is provided with every order. Every batch is third-party tested before dispatch."
+      },
+      {
+        "q": "How is Metabolic Stack supplied and reconstituted for research use?",
+        "a": "Metabolic Stack is supplied as a lyophilised powder in sterile single-use vials. For in vitro research use, reconstitution is performed with bacteriostatic water. See the <a href=\"/tools/reconstitution-calculator/\">reconstitution calculator</a> for volume calculations based on required concentration."
+      },
+      {
+        "q": "What is Metabolic Stack used for in preclinical research?",
+        "a": "Metabolic Stack is studied in the peer-reviewed literature across the pathways described in the research overview above. Velox Peptides supplies Metabolic Stack strictly as a research reagent for in vitro use by qualified researchers. It is not a medicinal product and is not for human or veterinary consumption."
+      },
+      {
+        "q": "What is the CAS number for Metabolic Stack?",
+        "a": "The CAS registry number for Metabolic Stack is n/a / 53-84-9 / n/a. This identifier is listed on every batch certificate of analysis supplied with orders."
+      }
+    ],
+    "url": "/stacks/metabolic/",
+    "components": [
+      "mots-c",
+      "nad-plus",
+      "retatrutide"
+    ],
+    "categoryTags": [
+      "metabolic"
+    ],
+    "componentPills": [
+      {
+        "name": "Mots-C",
+        "size": "10mg",
+        "price": 29.99,
+        "url": "/compounds/mots-c/"
+      },
+      {
+        "name": "NAD+",
+        "size": "1000mg",
+        "price": 82.3,
+        "url": "/compounds/nad-plus/"
+      },
+      {
+        "name": "Retatrutide",
+        "size": "20mg",
+        "price": 109.99,
+        "url": "/compounds/retatrutide/"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "slug": "skin-and-aesthetic",
+    "name": "Skin & Aesthetic Stack",
+    "fullName": "Melanotan II + GHK-Cu + Glutathione",
+    "category": "stacks",
+    "categoryLabel": "Stacks",
+    "categorySlug": "stacks",
+    "cas": "121062-08-6 / 49557-75-7 / 70-18-8",
+    "formula": "Melanotan II 10mg · GHK-Cu 100mg · Glutathione 1500mg",
+    "molecularWeight": null,
+    "sequence": null,
+    "purity": 99,
+    "sizes": [
+      {
+        "l": "Melanotan II 10mg + GHK-Cu 100mg + Glutathione 1500mg",
+        "p": 95.98,
+        "origPrice": 184.97,
+        "savePct": 48
+      }
+    ],
+    "description": "Research bundle combining three compounds studied across dermatological and pigmentation research models. Melanotan II is investigated for melanocortin receptor binding and pigmentation pathway signalling; GHK-Cu for collagen and elastin synthesis and tissue remodelling; Glutathione for cellular antioxidant activity and redox homeostasis. Frequently used together in skin biology and cellular protection research. Three individual vials. For in vitro research use only.",
+    "shortDesc": "Research bundle combining three compounds studied across dermatological and pigmentation research models. Melanotan II is investigated for melanocortin receptor binding and pigmentation pathway signalling; GHK-Cu for collagen and elastin synthesis and tissue remodelling; Glutathione for cellular antioxidant activity and redox homeostasis.",
+    "origPriceRange": 184.97,
+    "isRecentlyAdded": false,
+    "faq": [
+      {
+        "q": "What purity is Velox Peptides Skin & Aesthetic Stack?",
+        "a": "Skin & Aesthetic Stack is supplied at 99% HPLC-verified purity. A certificate of analysis is provided with every order. Every batch is third-party tested before dispatch."
+      },
+      {
+        "q": "How is Skin & Aesthetic Stack supplied and reconstituted for research use?",
+        "a": "Skin & Aesthetic Stack is supplied as a lyophilised powder in sterile single-use vials. For in vitro research use, reconstitution is performed with bacteriostatic water. See the <a href=\"/tools/reconstitution-calculator/\">reconstitution calculator</a> for volume calculations based on required concentration."
+      },
+      {
+        "q": "What is Skin & Aesthetic Stack used for in preclinical research?",
+        "a": "Skin & Aesthetic Stack is studied in the peer-reviewed literature across the pathways described in the research overview above. Velox Peptides supplies Skin & Aesthetic Stack strictly as a research reagent for in vitro use by qualified researchers. It is not a medicinal product and is not for human or veterinary consumption."
+      },
+      {
+        "q": "What is the CAS number for Skin & Aesthetic Stack?",
+        "a": "The CAS registry number for Skin & Aesthetic Stack is 121062-08-6 / 49557-75-7 / 70-18-8. This identifier is listed on every batch certificate of analysis supplied with orders."
+      }
+    ],
+    "url": "/stacks/skin-and-aesthetic/",
+    "components": [
+      "melanotan-ii",
+      "ghk-cu",
+      "glutathione"
+    ],
+    "categoryTags": [
+      "aging"
+    ],
+    "componentPills": [
+      {
+        "name": "Melanotan II",
+        "size": "10mg",
+        "price": 24.99,
+        "url": "/compounds/melanotan-ii/"
+      },
+      {
+        "name": "GHK-Cu",
+        "size": "100mg",
+        "price": 44.99,
+        "url": "/compounds/ghk-cu/"
+      },
+      {
+        "name": "Glutathione",
+        "size": "1500mg",
+        "price": 119.99,
+        "url": "/compounds/glutathione/"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "slug": "ultimate-repair",
+    "name": "Ultimate Repair Stack",
+    "fullName": "BPC-157 + TB-500 + GHK-Cu",
+    "category": "stacks",
+    "categoryLabel": "Stacks",
+    "categorySlug": "stacks",
+    "cas": "137525-51-0 / 77591-33-4 / 49557-75-7",
+    "formula": "BPC-157 10mg · TB-500 10mg · GHK-Cu 100mg",
+    "molecularWeight": null,
+    "sequence": null,
+    "purity": 98.9,
+    "sizes": [
+      {
+        "l": "BPC-157 10mg + TB-500 10mg + GHK-Cu 100mg",
+        "p": 79.98,
+        "origPrice": 109.97,
+        "savePct": 27
+      }
+    ],
+    "description": "Research bundle combining three of the most studied tissue-focused peptides in preclinical repair research. BPC-157 is investigated for blood vessel formation, wound closure, and mucosal protection; TB-500 for actin regulation and cellular migration in tissue organisation; GHK-Cu for collagen synthesis and tissue remodelling. Together they cover vascular, cellular, and structural aspects of tissue repair pathway research. Three individual lyophilised vials. For in vitro research use only.",
+    "shortDesc": "Research bundle combining three of the most studied tissue-focused peptides in preclinical repair research. BPC-157 is investigated for blood vessel formation, wound closure, and mucosal protection; TB-500 for actin regulation and cellular migration in tissue organisation; GHK-Cu for collagen synthesis and tissue remodelling.",
+    "origPriceRange": 109.97,
+    "isRecentlyAdded": false,
+    "faq": [
+      {
+        "q": "What purity is Velox Peptides Ultimate Repair Stack?",
+        "a": "Ultimate Repair Stack is supplied at 98.9% HPLC-verified purity. A certificate of analysis is provided with every order. Every batch is third-party tested before dispatch."
+      },
+      {
+        "q": "How is Ultimate Repair Stack supplied and reconstituted for research use?",
+        "a": "Ultimate Repair Stack is supplied as a lyophilised powder in sterile single-use vials. For in vitro research use, reconstitution is performed with bacteriostatic water. See the <a href=\"/tools/reconstitution-calculator/\">reconstitution calculator</a> for volume calculations based on required concentration."
+      },
+      {
+        "q": "What is Ultimate Repair Stack used for in preclinical research?",
+        "a": "Ultimate Repair Stack is studied in the peer-reviewed literature across the pathways described in the research overview above. Velox Peptides supplies Ultimate Repair Stack strictly as a research reagent for in vitro use by qualified researchers. It is not a medicinal product and is not for human or veterinary consumption."
+      },
+      {
+        "q": "What is the CAS number for Ultimate Repair Stack?",
+        "a": "The CAS registry number for Ultimate Repair Stack is 137525-51-0 / 77591-33-4 / 49557-75-7. This identifier is listed on every batch certificate of analysis supplied with orders."
+      }
+    ],
+    "url": "/stacks/ultimate-repair/",
+    "components": [
+      "bpc-157",
+      "tb-500",
+      "ghk-cu"
+    ],
+    "categoryTags": [
+      "healing"
+    ],
+    "componentPills": [
+      {
+        "name": "BPC-157",
+        "size": "10mg",
+        "price": 39.99,
+        "url": "/compounds/bpc-157/"
+      },
+      {
+        "name": "TB-500",
+        "size": "10mg",
+        "price": 29.99,
+        "url": "/compounds/tb-500/"
+      },
+      {
+        "name": "GHK-Cu",
+        "size": "100mg",
+        "price": 44.99,
+        "url": "/compounds/ghk-cu/"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "slug": "repair-and-metabolic",
+    "name": "Repair & Metabolic Stack",
+    "fullName": "Retatrutide + BPC-157 + TB-500",
+    "category": "stacks",
+    "categoryLabel": "Stacks",
+    "categorySlug": "stacks",
+    "cas": "n/a / 137525-51-0 / 77591-33-4",
+    "formula": "Retatrutide 20mg · BPC-157 10mg · TB-500 10mg",
+    "molecularWeight": null,
+    "sequence": null,
+    "purity": 98.8,
+    "sizes": [
+      {
+        "l": "Retatrutide 20mg + BPC-157 10mg + TB-500 10mg",
+        "p": 127.98,
+        "origPrice": 179.97,
+        "savePct": 29
+      }
+    ],
+    "description": "Research bundle pairing Retatrutide's triple-receptor metabolic pathway coverage (GLP-1, GIP, and glucagon) with the two most widely studied preclinical repair peptides. BPC-157 is investigated for tissue repair, angiogenesis, and mucosal protection; TB-500 for cellular migration and actin-mediated tissue organisation. Allows researchers to study metabolic and tissue pathway interactions within a single protocol. Three individual lyophilised vials. For in vitro research use only.",
+    "shortDesc": "Research bundle pairing Retatrutide's triple-receptor metabolic pathway coverage (GLP-1, GIP, and glucagon) with the two most widely studied preclinical repair peptides. BPC-157 is investigated for tissue repair, angiogenesis, and mucosal protection; TB-500 for cellular migration and actin-mediated tissue organisation.",
+    "origPriceRange": 179.97,
+    "isRecentlyAdded": false,
+    "faq": [
+      {
+        "q": "What purity is Velox Peptides Repair & Metabolic Stack?",
+        "a": "Repair & Metabolic Stack is supplied at 98.8% HPLC-verified purity. A certificate of analysis is provided with every order. Every batch is third-party tested before dispatch."
+      },
+      {
+        "q": "How is Repair & Metabolic Stack supplied and reconstituted for research use?",
+        "a": "Repair & Metabolic Stack is supplied as a lyophilised powder in sterile single-use vials. For in vitro research use, reconstitution is performed with bacteriostatic water. See the <a href=\"/tools/reconstitution-calculator/\">reconstitution calculator</a> for volume calculations based on required concentration."
+      },
+      {
+        "q": "What is Repair & Metabolic Stack used for in preclinical research?",
+        "a": "Repair & Metabolic Stack is studied in the peer-reviewed literature across the pathways described in the research overview above. Velox Peptides supplies Repair & Metabolic Stack strictly as a research reagent for in vitro use by qualified researchers. It is not a medicinal product and is not for human or veterinary consumption."
+      },
+      {
+        "q": "What is the CAS number for Repair & Metabolic Stack?",
+        "a": "The CAS registry number for Repair & Metabolic Stack is n/a / 137525-51-0 / 77591-33-4. This identifier is listed on every batch certificate of analysis supplied with orders."
+      }
+    ],
+    "url": "/stacks/repair-and-metabolic/",
+    "components": [
+      "retatrutide",
+      "bpc-157",
+      "tb-500"
+    ],
+    "categoryTags": [
+      "healing",
+      "metabolic"
+    ],
+    "componentPills": [
+      {
+        "name": "Retatrutide",
+        "size": "20mg",
+        "price": 109.99,
+        "url": "/compounds/retatrutide/"
+      },
+      {
+        "name": "BPC-157",
+        "size": "10mg",
+        "price": 39.99,
+        "url": "/compounds/bpc-157/"
+      },
+      {
+        "name": "TB-500",
+        "size": "10mg",
+        "price": 29.99,
+        "url": "/compounds/tb-500/"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "slug": "gh-and-metabolic",
+    "name": "GH & Metabolic Stack",
+    "fullName": "Retatrutide + Tesamorelin",
+    "category": "stacks",
+    "categoryLabel": "Stacks",
+    "categorySlug": "stacks",
+    "cas": "n/a / 218949-48-9",
+    "formula": "Retatrutide 20mg · Tesamorelin 15mg",
+    "molecularWeight": null,
+    "sequence": null,
+    "purity": 98.6,
+    "sizes": [
+      {
+        "l": "Retatrutide 20mg + Tesamorelin 15mg",
+        "p": 159.98,
+        "origPrice": 239.98,
+        "savePct": 33
+      }
+    ],
+    "description": "Research bundle pairing two compounds investigated across metabolic and growth hormone pathways. Retatrutide simultaneously engages GLP-1, GIP, and glucagon receptors in metabolic regulation research; Tesamorelin is a clinically researched GHRH analogue studied for GH secretion, IGF-1 pathway activity, and visceral fat distribution. Together they provide coverage of the primary growth and metabolic signalling axes studied in preclinical research. Two individual lyophilised vials. For in vitro research use only.",
+    "shortDesc": "Research bundle pairing two compounds investigated across metabolic and growth hormone pathways. Retatrutide simultaneously engages GLP-1, GIP, and glucagon receptors in metabolic regulation research; Tesamorelin is a clinically researched GHRH analogue studied for GH secretion, IGF-1 pathway activity, and visceral fat distribution.",
+    "origPriceRange": 239.98,
+    "isRecentlyAdded": false,
+    "faq": [
+      {
+        "q": "What purity is Velox Peptides GH & Metabolic Stack?",
+        "a": "GH & Metabolic Stack is supplied at 98.6% HPLC-verified purity. A certificate of analysis is provided with every order. Every batch is third-party tested before dispatch."
+      },
+      {
+        "q": "How is GH & Metabolic Stack supplied and reconstituted for research use?",
+        "a": "GH & Metabolic Stack is supplied as a lyophilised powder in sterile single-use vials. For in vitro research use, reconstitution is performed with bacteriostatic water. See the <a href=\"/tools/reconstitution-calculator/\">reconstitution calculator</a> for volume calculations based on required concentration."
+      },
+      {
+        "q": "What is GH & Metabolic Stack used for in preclinical research?",
+        "a": "GH & Metabolic Stack is studied in the peer-reviewed literature across the pathways described in the research overview above. Velox Peptides supplies GH & Metabolic Stack strictly as a research reagent for in vitro use by qualified researchers. It is not a medicinal product and is not for human or veterinary consumption."
+      },
+      {
+        "q": "What is the CAS number for GH & Metabolic Stack?",
+        "a": "The CAS registry number for GH & Metabolic Stack is n/a / 218949-48-9. This identifier is listed on every batch certificate of analysis supplied with orders."
+      }
+    ],
+    "url": "/stacks/gh-and-metabolic/",
+    "components": [
+      "retatrutide",
+      "tesamorelin"
+    ],
+    "categoryTags": [
+      "growth",
+      "metabolic"
+    ],
+    "componentPills": [
+      {
+        "name": "Retatrutide",
+        "size": "20mg",
+        "price": 109.99,
+        "url": "/compounds/retatrutide/"
+      },
+      {
+        "name": "Tesamorelin",
+        "size": "15mg",
+        "price": 129.99,
+        "url": "/compounds/tesamorelin/"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "slug": "advanced-cognitive",
+    "name": "Advanced Cognitive Stack",
+    "fullName": "Semax + Selank + Dihexa",
+    "category": "stacks",
+    "categoryLabel": "Stacks",
+    "categorySlug": "stacks",
+    "cas": "80714-61-0 / 129954-34-3 / 1401708-83-5",
+    "formula": "Semax 10mg · Selank 10mg · Dihexa 10mg",
+    "molecularWeight": null,
+    "sequence": null,
+    "purity": 98.5,
+    "sizes": [
+      {
+        "l": "Semax 10mg + Selank 10mg + Dihexa 10mg",
+        "p": 107.98,
+        "origPrice": 139.97,
+        "savePct": 23
+      }
+    ],
+    "description": "Research bundle combining three compounds studied across distinct but complementary neurological pathways. Semax is investigated for BDNF expression and neuroprotection in brain tissue models; Selank for anxiolytic-like profiles and serotonergic/GABAergic pathway modulation; Dihexa for HGF/c-Met receptor signalling and hippocampal synaptic density. Together they represent a broad-coverage neurological pathway research toolkit. Three individual lyophilised vials. For in vitro research use only.",
+    "shortDesc": "Research bundle combining three compounds studied across distinct but complementary neurological pathways. Semax is investigated for BDNF expression and neuroprotection in brain tissue models; Selank for anxiolytic-like profiles and serotonergic/GABAergic pathway modulation; Dihexa for HGF/c-Met receptor signalling and hippocampal synaptic density.",
+    "origPriceRange": 139.97,
+    "isRecentlyAdded": false,
+    "faq": [
+      {
+        "q": "What purity is Velox Peptides Advanced Cognitive Stack?",
+        "a": "Advanced Cognitive Stack is supplied at 98.5% HPLC-verified purity. A certificate of analysis is provided with every order. Every batch is third-party tested before dispatch."
+      },
+      {
+        "q": "How is Advanced Cognitive Stack supplied and reconstituted for research use?",
+        "a": "Advanced Cognitive Stack is supplied as a lyophilised powder in sterile single-use vials. For in vitro research use, reconstitution is performed with bacteriostatic water. See the <a href=\"/tools/reconstitution-calculator/\">reconstitution calculator</a> for volume calculations based on required concentration."
+      },
+      {
+        "q": "What is Advanced Cognitive Stack used for in preclinical research?",
+        "a": "Advanced Cognitive Stack is studied in the peer-reviewed literature across the pathways described in the research overview above. Velox Peptides supplies Advanced Cognitive Stack strictly as a research reagent for in vitro use by qualified researchers. It is not a medicinal product and is not for human or veterinary consumption."
+      },
+      {
+        "q": "What is the CAS number for Advanced Cognitive Stack?",
+        "a": "The CAS registry number for Advanced Cognitive Stack is 80714-61-0 / 129954-34-3 / 1401708-83-5. This identifier is listed on every batch certificate of analysis supplied with orders."
+      }
+    ],
+    "url": "/stacks/advanced-cognitive/",
+    "components": [
+      "semax",
+      "selank",
+      "dihexa"
+    ],
+    "categoryTags": [
+      "cognitive"
+    ],
+    "componentPills": [
+      {
+        "name": "Semax",
+        "size": "10mg",
+        "price": 34.99,
+        "url": "/compounds/semax/"
+      },
+      {
+        "name": "Selank",
+        "size": "10mg",
+        "price": 39.99,
+        "url": "/compounds/selank/"
+      },
+      {
+        "name": "Dihexa",
+        "size": "10mg",
+        "price": 64.99,
+        "url": "/compounds/dihexa/"
+      }
+    ]
+  }
+]

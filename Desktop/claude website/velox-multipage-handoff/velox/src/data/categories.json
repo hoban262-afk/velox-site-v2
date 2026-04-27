@@ -1,0 +1,44 @@
+[
+  {
+    "key": "cognitive",
+    "slug": "cognitive",
+    "label": "Cognitive",
+    "shortDesc": "Compounds studied for effects on BDNF expression, neurotransmitter signalling, and synaptic plasticity in preclinical research.",
+    "compoundCount": 4
+  },
+  {
+    "key": "metabolic",
+    "slug": "metabolic",
+    "label": "Metabolic",
+    "shortDesc": "Compounds studied for effects on GLP-1, GIP, glucagon, AMPK, and mitochondrial signalling pathways in preclinical research.",
+    "compoundCount": 3
+  },
+  {
+    "key": "healing",
+    "slug": "healing-and-repair",
+    "label": "Healing & Repair",
+    "shortDesc": "Compounds studied for roles in tissue response, angiogenesis, cellular migration, and structural repair pathways in preclinical research.",
+    "compoundCount": 3
+  },
+  {
+    "key": "growth",
+    "slug": "growth",
+    "label": "Growth",
+    "shortDesc": "Growth hormone-releasing hormone analogues studied for GH and IGF-1 pathway activity in preclinical research.",
+    "compoundCount": 2
+  },
+  {
+    "key": "aging",
+    "slug": "anti-ageing",
+    "label": "Anti-Ageing",
+    "shortDesc": "Compounds studied for roles in cellular antioxidant activity, collagen synthesis, and sirtuin pathway function in preclinical research.",
+    "compoundCount": 3
+  },
+  {
+    "key": "stacks",
+    "slug": "stacks",
+    "label": "Stacks",
+    "shortDesc": "Multi-compound research bundles.",
+    "compoundCount": 0
+  }
+]

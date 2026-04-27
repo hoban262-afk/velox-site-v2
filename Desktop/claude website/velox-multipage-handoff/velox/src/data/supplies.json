@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "slug": "bacteriostatic-water",
+    "name": "Bac Water",
+    "fullName": "Bacteriostatic Water (0.9% BnOH)",
+    "category": "supplies",
+    "categoryLabel": "Supplies",
+    "categorySlug": "supplies",
+    "cas": null,
+    "formula": "H₂O · 0.9% BnOH",
+    "molecularWeight": null,
+    "sequence": null,
+    "purity": null,
+    "sizes": [
+      {
+        "l": "3ml",
+        "p": 4.99
+      },
+      {
+        "l": "10ml",
+        "p": 9.99
+      }
+    ],
+    "description": "USP-grade sterile water containing 0.9% benzyl alcohol, which acts as a preservative to prevent microbial growth after the vial is opened. Required for reconstituting lyophilised (freeze-dried) peptide powders before use in research. The benzyl alcohol content allows the reconstituted solution to be stored at 2–8°C for up to 28 days without contamination.",
+    "shortDesc": "USP-grade sterile water containing 0.9% benzyl alcohol, which acts as a preservative to prevent microbial growth after the vial is opened. Required for reconstituting lyophilised (freeze-dried) peptide powders before use in research.",
+    "origPriceRange": null,
+    "isRecentlyAdded": false,
+    "faq": [
+      {
+        "q": "What is Bac Water used for in preclinical research?",
+        "a": "Bac Water is studied in the peer-reviewed literature across the pathways described in the research overview above. Velox Peptides supplies Bac Water strictly as a research reagent for in vitro use by qualified researchers. It is not a medicinal product and is not for human or veterinary consumption."
+      }
+    ],
+    "url": "/supplies/bacteriostatic-water/"
+  }
+]

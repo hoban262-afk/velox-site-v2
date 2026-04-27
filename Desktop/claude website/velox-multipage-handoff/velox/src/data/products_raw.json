@@ -1,0 +1,585 @@
+[
+  {
+    "id": 1,
+    "name": "Bac Water",
+    "full": "Bacteriostatic Water (0.9% BnOH)",
+    "cat": "supplies",
+    "cl": "cc-s",
+    "catLbl": "SUPPLIES",
+    "cas": null,
+    "formula": "H₂O · 0.9% BnOH",
+    "purity": null,
+    "desc": "USP-grade sterile water containing 0.9% benzyl alcohol, which acts as a preservative to prevent microbial growth after the vial is opened. Required for reconstituting lyophilised (freeze-dried) peptide powders before use in research. The benzyl alcohol content allows the reconstituted solution to be stored at 2–8°C for up to 28 days without contamination.",
+    "sizes": [
+      {
+        "l": "3ml",
+        "p": 4.99
+      },
+      {
+        "l": "10ml",
+        "p": 9.99
+      }
+    ],
+    "sale": false,
+    "orig": null,
+    "badge": null
+  },
+  {
+    "id": 2,
+    "name": "BPC-157",
+    "full": "Body Protection Compound-157",
+    "cat": "healing",
+    "cl": "cc-h",
+    "catLbl": "HEALING & REPAIR",
+    "cas": "137525-51-0",
+    "formula": "C₆₂H₉₈N₁₆O₂₂",
+    "purity": 99.4,
+    "desc": "A 15-amino-acid synthetic peptide that is among the most extensively studied repair-focused compounds in preclinical science. Rodent studies have investigated its role in stimulating new blood vessel formation (angiogenesis), accelerating wound tissue closure, and protecting the stomach and intestinal lining from experimentally induced damage. It has also been studied for tendon and ligament tissue response and its interactions with growth factors such as VEGF. For in vitro research use only. HPLC purity 99.4%.",
+    "sizes": [
+      {
+        "l": "10mg",
+        "p": 39.99
+      }
+    ],
+    "sale": false,
+    "orig": null,
+    "badge": "Best seller"
+  },
+  {
+    "id": 3,
+    "name": "BPC-157 + TB500",
+    "full": "Healing & Repair Research Bundle",
+    "cat": "healing",
+    "cl": "cc-h",
+    "catLbl": "HEALING & REPAIR",
+    "cas": "137525-51-0 / 77591-33-4",
+    "formula": "Dual-peptide bundle",
+    "purity": 98.9,
+    "desc": "A research bundle combining the two most widely studied tissue-repair peptides in preclinical science. BPC-157 is investigated for blood vessel formation, wound closure, and mucosal protection; TB-500 is studied for cellular migration and actin-mediated tissue organisation. Researchers commonly use these compounds alongside each other in tissue repair studies. Two individual lyophilised vials supplied.",
+    "sizes": [
+      {
+        "l": "10mg + 10mg",
+        "p": 59.99
+      }
+    ],
+    "sale": true,
+    "orig": 69.99,
+    "badge": "Sale"
+  },
+  {
+    "id": 15,
+    "name": "TB-500",
+    "full": "Thymosin Beta-4",
+    "cat": "healing",
+    "cl": "cc-h",
+    "catLbl": "HEALING & REPAIR",
+    "cas": "77591-33-4",
+    "formula": "C₂₁₂H₃₅₀N₅₆O₇₈S",
+    "purity": 98.8,
+    "desc": "A synthetic version of Thymosin Beta-4, a protein naturally present in mammalian tissue. Preclinical studies investigate its role in regulating actin — a structural protein that controls how cells move and organise during tissue repair. Animal studies have examined its effects on connective tissue response, cellular migration to injury sites, and cardiac tissue following experimentally induced damage. For in vitro research use only. HPLC purity 98.8%.",
+    "sizes": [
+      {
+        "l": "10mg",
+        "p": 29.99
+      }
+    ],
+    "sale": false,
+    "orig": null,
+    "badge": "New"
+  },
+  {
+    "id": 4,
+    "name": "CJC-1295 wo DAC",
+    "full": "Growth Hormone Releasing Factor Analogue (no DAC)",
+    "cat": "growth",
+    "cl": "cc-g",
+    "catLbl": "GROWTH",
+    "cas": "863288-34-0",
+    "formula": "C₁₅₂H₂₅₂N₄₄O₄₂",
+    "purity": 99.1,
+    "desc": "A synthetic analogue of the natural signal the brain uses to trigger growth hormone release. The absence of a Drug Affinity Complex (DAC) means it produces a shorter, sharper pulse of GH release — more closely mimicking the natural physiological pattern than longer-acting variants. Animal studies have measured its effects on GH and IGF-1 concentrations. Frequently studied alongside Ipamorelin in GH secretion research. For in vitro research use only. HPLC purity 99.1%.",
+    "sizes": [
+      {
+        "l": "10mg",
+        "p": 49.99
+      }
+    ],
+    "sale": false,
+    "orig": null,
+    "badge": null
+  },
+  {
+    "id": 14,
+    "name": "Tesamorelin",
+    "full": "Growth Hormone Releasing Factor Analogue",
+    "cat": "growth",
+    "cl": "cc-g",
+    "catLbl": "GROWTH",
+    "cas": "218949-48-9",
+    "formula": "C₂₂₁H₃₅₆N₆₄O₆₈S",
+    "purity": 98.6,
+    "desc": "A synthetic analogue of the full-length growth hormone-releasing hormone (GHRH), with structural modifications that slow its breakdown and extend its active window. Investigated in preclinical and clinical research for its effects on GH and IGF-1 production, and studied in specific patient groups for its influence on visceral fat distribution. One of the most clinically researched GHRH analogues available. For in vitro research use only. HPLC purity 98.6%.",
+    "sizes": [
+      {
+        "l": "15mg",
+        "p": 109.99
+      }
+    ],
+    "sale": true,
+    "orig": 129.99,
+    "badge": "Sale"
+  },
+  {
+    "id": 5,
+    "name": "DSIP",
+    "full": "Delta Sleep-Inducing Peptide",
+    "cat": "cognitive",
+    "cl": "cc-c",
+    "catLbl": "COGNITIVE",
+    "cas": "62568-57-4",
+    "formula": "C₃₅H₄₈N₁₀O₁₅",
+    "purity": 98.7,
+    "desc": "A 9-amino-acid neuropeptide first isolated from rabbit blood during deep sleep states. Animal studies investigate its effects on the architecture of sleep — particularly slow-wave and delta sleep stages — as well as its interaction with the body's stress-response axis. Researchers study it as a naturally occurring signal involved in sleep regulation and neuroendocrine balance. For in vitro research use only. HPLC purity 98.7%.",
+    "sizes": [
+      {
+        "l": "5mg",
+        "p": 34.99
+      },
+      {
+        "l": "10mg",
+        "p": 44.99
+      }
+    ],
+    "sale": false,
+    "orig": null,
+    "badge": null
+  },
+  {
+    "id": 12,
+    "name": "Selank",
+    "full": "Synthetic Heptapeptide (TKPRPGP)",
+    "cat": "cognitive",
+    "cl": "cc-c",
+    "catLbl": "COGNITIVE",
+    "cas": "129954-34-3",
+    "formula": "C₃₃H₅₇N₉O₁₁",
+    "purity": 98.9,
+    "desc": "A synthetic 7-amino-acid peptide based on a fragment of the immune protein tuftsin. Rodent studies have documented calmer behaviour in treated animals without observed sedation — a profile that distinguishes it from classical anxiolytic compounds in research settings. Studies have also measured increased BDNF (a protein involved in brain cell survival and connectivity) in neuronal tissue, alongside effects on GABAergic and serotonergic signalling pathways. For in vitro research use only. HPLC purity 98.9%.",
+    "sizes": [
+      {
+        "l": "10mg",
+        "p": 39.99
+      }
+    ],
+    "sale": true,
+    "orig": 49.99,
+    "badge": "Sale"
+  },
+  {
+    "id": 13,
+    "name": "Semax",
+    "full": "ACTH(4-7) Pro-Gly-Pro Analogue",
+    "cat": "cognitive",
+    "cl": "cc-c",
+    "catLbl": "COGNITIVE",
+    "cas": "80714-61-0",
+    "formula": "C₃₇H₅₁N₉O₁₀S",
+    "purity": 99,
+    "desc": "A synthetic 7-amino-acid peptide based on a section of the stress hormone ACTH, with a stabilising tail added to improve its reach within biological systems. Preclinical studies have measured increased BDNF expression — a protein associated with brain cell growth and survival — in neuronal tissue following administration. Neuroprotective effects have also been studied in animal models of experimentally induced brain ischaemia. Widely researched in Eastern European neuroscience institutions. For in vitro research use only. HPLC purity 99.0%.",
+    "sizes": [
+      {
+        "l": "10mg",
+        "p": 34.99
+      }
+    ],
+    "sale": true,
+    "orig": 39.99,
+    "badge": "Sale"
+  },
+  {
+    "id": 9,
+    "name": "Mots-C",
+    "full": "Mitochondrial Open Reading Frame Peptide",
+    "cat": "metabolic",
+    "cl": "cc-m",
+    "catLbl": "METABOLIC",
+    "cas": null,
+    "formula": "16-AA mitochondrial peptide",
+    "purity": 98.5,
+    "desc": "A 16-amino-acid peptide with an unusual origin — its genetic instructions come from the DNA inside mitochondria (the cell's energy-producing structures), rather than from the cell nucleus. Under metabolic stress conditions, it travels to the nucleus and activates AMPK — an enzyme that acts as a cellular energy sensor and regulator. Animal studies have examined its influence on glucose metabolism and metabolic gene expression, making it a subject of interest in mitochondrial and metabolic pathway research. For in vitro research use only. HPLC purity 98.5%.",
+    "sizes": [
+      {
+        "l": "10mg",
+        "p": 29.99
+      }
+    ],
+    "sale": true,
+    "orig": 34.99,
+    "badge": "Sale"
+  },
+  {
+    "id": 10,
+    "name": "NAD+",
+    "full": "Nicotinamide Adenine Dinucleotide",
+    "cat": "metabolic",
+    "cl": "cc-m",
+    "catLbl": "METABOLIC",
+    "cas": "53-84-9",
+    "formula": "C₂₁H₂₇N₇O₁₄P₂",
+    "purity": 99.5,
+    "desc": "A coenzyme present in every living cell and essential for mitochondrial energy production and sirtuin enzyme activity. Sirtuins are proteins involved in DNA repair, gene regulation, and cellular stress responses. Research documents measurable declines in NAD+ levels in aged animal models, and studies examine whether restoring NAD+ influences DNA repair activity and mitochondrial function. A foundational research reagent for cellular metabolism and ageing pathway studies. For in vitro research use only. HPLC purity 99.5%.",
+    "sizes": [
+      {
+        "l": "1000mg",
+        "p": 54.99
+      }
+    ],
+    "sale": true,
+    "orig": 59.99,
+    "badge": "Sale"
+  },
+  {
+    "id": 11,
+    "name": "Retatrutide",
+    "full": "GLP-1 / GIP / Glucagon Triple Agonist",
+    "cat": "metabolic",
+    "cl": "cc-m",
+    "catLbl": "METABOLIC",
+    "cas": null,
+    "formula": "GLP-1/GIP/Glucagon agonist",
+    "purity": 98.8,
+    "desc": "A synthetic peptide that simultaneously activates three distinct metabolic receptors — GLP-1, GIP, and glucagon — each involved in regulating energy balance, insulin response, and fat metabolism. By engaging all three pathways at once, it offers researchers a tool for studying multi-receptor metabolic signalling in ways that single-agonist compounds cannot. Among the most actively investigated next-generation metabolic research peptides. For in vitro research use only. HPLC purity 98.8%.",
+    "sizes": [
+      {
+        "l": "10mg",
+        "p": 59.99
+      },
+      {
+        "l": "15mg",
+        "p": 85.99
+      },
+      {
+        "l": "20mg",
+        "p": 99.99
+      }
+    ],
+    "sale": false,
+    "orig": null,
+    "badge": null
+  },
+  {
+    "id": 116,
+    "name": "Retatrutide Pen",
+    "full": "GLP-1 / GIP / Glucagon Triple Agonist — Pen",
+    "cat": "metabolic",
+    "cl": "cc-m",
+    "catLbl": "METABOLIC",
+    "cas": null,
+    "formula": "GLP-1/GIP/Glucagon agonist — 40mg pen",
+    "purity": 98.8,
+    "desc": "Retatrutide 40mg in a pre-loaded pen format for research convenience. Activates GLP-1, GIP, and glucagon receptors simultaneously — a triple-receptor approach to metabolic pathway investigation. The pen format differs from standard lyophilised vials in that no reconstitution is required, making it suitable for research protocols where handling consistency is important. For in vitro research use only. HPLC purity 98.8%.",
+    "sizes": [
+      {
+        "l": "40mg Pen",
+        "p": 159.99
+      }
+    ],
+    "sale": true,
+    "orig": 199.99,
+    "badge": "Sale"
+  },
+  {
+    "id": 6,
+    "name": "GHK-Cu",
+    "full": "Copper Tripeptide-1",
+    "cat": "aging",
+    "cl": "cc-a",
+    "catLbl": "ANTI-AGEING",
+    "cas": "49557-75-7",
+    "formula": "C₁₄H₂₃CuN₆O₄",
+    "purity": 99,
+    "desc": "A naturally occurring tripeptide found in mammalian blood that carries a copper atom. In skin cell and animal research models, it has been studied for its ability to upregulate the genes responsible for producing collagen and elastin — the structural proteins that give tissue its strength and elasticity. Studies have also examined its antioxidant activity and its role in regulating enzymes involved in tissue remodelling. One of the most researched copper-peptide compounds in dermatological science. For in vitro research use only. HPLC purity 99.0%.",
+    "sizes": [
+      {
+        "l": "100mg",
+        "p": 39.99
+      }
+    ],
+    "sale": true,
+    "orig": 44.99,
+    "badge": "Sale"
+  },
+  {
+    "id": 7,
+    "name": "Glutathione",
+    "full": "L-Glutathione (Reduced)",
+    "cat": "aging",
+    "cl": "cc-a",
+    "catLbl": "ANTI-AGEING",
+    "cas": "70-18-8",
+    "formula": "C₁₀H₁₇N₃O₆S",
+    "purity": 99.2,
+    "desc": "A naturally occurring tripeptide antioxidant present in virtually every mammalian cell. It plays a central role in protecting cells from oxidative damage by neutralising free radicals, and is essential for mitochondrial function and cellular redox balance. Research in aged animal models documents measurable glutathione decline, and studies examine whether restoring levels influences DNA repair activity and oxidative stress markers. A widely used research reagent in ageing, mitochondrial, and cellular protection studies. For in vitro research use only. HPLC purity 99.2%.",
+    "sizes": [
+      {
+        "l": "1500mg",
+        "p": 54.99
+      }
+    ],
+    "sale": false,
+    "orig": null,
+    "badge": null
+  },
+  {
+    "id": 8,
+    "name": "Melanotan II",
+    "full": "MT-2 — Melanocortin Receptor Agonist",
+    "cat": "aging",
+    "cl": "cc-a",
+    "catLbl": "ANTI-AGEING",
+    "cas": "121062-08-6",
+    "formula": "C₅₀H₆₉N₁₅O₉",
+    "purity": 99.3,
+    "desc": "A synthetic analogue of alpha-MSH that binds to multiple melanocortin receptors (MC1R, MC3R, MC4R, MC5R) simultaneously. These receptors are involved in pigmentation, energy regulation, and neurological signalling. Animal studies have examined its effects on melanin production pathways and on receptor-mediated signalling across several tissue systems. Its ability to interact with multiple receptor subtypes makes it a useful tool for multi-pathway receptor research. For in vitro research use only. HPLC purity 99.3%.",
+    "sizes": [
+      {
+        "l": "10mg",
+        "p": 24.99
+      }
+    ],
+    "sale": true,
+    "orig": 29.99,
+    "badge": "Sale"
+  },
+  {
+    "id": 101,
+    "name": "Cognitive Stack",
+    "full": "Semax + Selank",
+    "cat": "stacks",
+    "cl": "cc-st",
+    "catLbl": "STACK",
+    "cas": "80714-61-0 / 129954-34-3",
+    "formula": "Semax 10mg · Selank 10mg",
+    "purity": 99,
+    "desc": "Research bundle pairing two of the most studied cognitive-focused peptides in preclinical neuroscience. Semax is investigated for BDNF upregulation and neuroprotective effects in brain tissue models; Selank is studied for calmer behavioural profiles in rodents without sedation, alongside serotonergic and GABAergic pathway modulation. Both have been the subject of research in Eastern European neuroscience institutions. Two individual lyophilised vials. For in vitro research use only.",
+    "sizes": [
+      {
+        "l": "Semax 10mg + Selank 10mg",
+        "p": 71.99
+      }
+    ],
+    "sale": true,
+    "orig": 89.98,
+    "badge": "Stack — 20% off"
+  },
+  {
+    "id": 102,
+    "name": "Cognitive & Sleep Stack",
+    "full": "Semax + Selank + DSIP",
+    "cat": "stacks",
+    "cl": "cc-st",
+    "catLbl": "STACK",
+    "cas": "80714-61-0 / 129954-34-3 / 62568-57-4",
+    "formula": "Semax 10mg · Selank 10mg · DSIP 10mg",
+    "purity": 98.7,
+    "desc": "Research bundle combining three neuropeptides studied across distinct but related neurological pathways. Semax is investigated for BDNF expression and neuroprotection; Selank for anxiolytic-like profiles and serotonergic modulation; DSIP for its effects on slow-wave sleep architecture and stress-axis signalling. Together they cover cognitive, stress-response, and sleep regulation pathway research in a single bundle. Three individual lyophilised vials. For in vitro research use only.",
+    "sizes": [
+      {
+        "l": "Semax 10mg + Selank 10mg + DSIP 10mg",
+        "p": 107.99
+      }
+    ],
+    "sale": true,
+    "orig": 134.97,
+    "badge": "Stack — 20% off"
+  },
+  {
+    "id": 103,
+    "name": "GH Peptide Stack",
+    "full": "CJC-1295 wo DAC + Tesamorelin",
+    "cat": "stacks",
+    "cl": "cc-st",
+    "catLbl": "STACK",
+    "cas": "863288-34-0 / 218949-48-9",
+    "formula": "CJC-1295 wo DAC 10mg · Tesamorelin 15mg",
+    "purity": 98.6,
+    "desc": "Research bundle combining two growth hormone-releasing hormone analogues with complementary properties. CJC-1295 without DAC produces a shorter, more physiologically pulsatile GH release pattern; Tesamorelin offers a longer active window with an established clinical research dataset. Together they allow comparison of different GHRH analogue profiles in GH secretion research. Two individual lyophilised vials. For in vitro research use only.",
+    "sizes": [
+      {
+        "l": "CJC-1295 wo DAC 10mg + Tesamorelin 15mg",
+        "p": 135.99
+      }
+    ],
+    "sale": true,
+    "orig": 169.98,
+    "badge": "Stack — 20% off"
+  },
+  {
+    "id": 104,
+    "name": "Anti-Ageing Stack",
+    "full": "GHK-Cu + Glutathione + NAD+",
+    "cat": "stacks",
+    "cl": "cc-st",
+    "catLbl": "STACK",
+    "cas": "49557-75-7 / 70-18-8 / 53-84-9",
+    "formula": "GHK-Cu 100mg · Glutathione 1500mg · NAD+ 1000mg",
+    "purity": 99,
+    "desc": "Research bundle targeting three distinct ageing-related pathways. GHK-Cu is studied for collagen synthesis and tissue remodelling in dermatological models; L-Glutathione Reduced for cellular antioxidant defence and mitochondrial redox balance; NAD+ for sirtuin enzyme activity and DNA repair pathway function in aged cell models. Together they provide coverage of the primary cellular mechanisms investigated in ageing research. Three individual vials. For in vitro research use only.",
+    "sizes": [
+      {
+        "l": "GHK-Cu 100mg + Glutathione 1500mg + NAD+ 1000mg",
+        "p": 123.97
+      }
+    ],
+    "sale": true,
+    "orig": 154.97,
+    "badge": "Stack — 20% off"
+  },
+  {
+    "id": 105,
+    "name": "Metabolic Stack",
+    "full": "Mots-C + NAD+ + Retatrutide",
+    "cat": "stacks",
+    "cl": "cc-st",
+    "catLbl": "STACK",
+    "cas": "n/a / 53-84-9 / n/a",
+    "formula": "Mots-C 10mg · NAD+ 1000mg · Retatrutide 20mg",
+    "purity": 98.8,
+    "desc": "Research bundle combining three compounds studied across complementary metabolic pathways. Mots-C is investigated for AMPK activation and mitochondrial metabolic signalling; NAD+ for sirtuin activity and cellular energy metabolism; Retatrutide for simultaneous GLP-1, GIP, and glucagon receptor engagement in metabolic regulation research. Together they represent a broad-coverage metabolic research toolkit. Three individual lyophilised vials. For in vitro research use only.",
+    "sizes": [
+      {
+        "l": "Mots-C 10mg + NAD+ 1000mg + Retatrutide 20mg",
+        "p": 147.97
+      }
+    ],
+    "sale": true,
+    "orig": 184.97,
+    "badge": "Stack — 20% off"
+  },
+  {
+    "id": 106,
+    "name": "Skin & Aesthetic Stack",
+    "full": "Melanotan II + GHK-Cu + Glutathione",
+    "cat": "stacks",
+    "cl": "cc-st",
+    "catLbl": "STACK",
+    "cas": "121062-08-6 / 49557-75-7 / 70-18-8",
+    "formula": "Melanotan II 10mg · GHK-Cu 100mg · Glutathione 1500mg",
+    "purity": 99,
+    "desc": "Research bundle combining three compounds studied across dermatological and pigmentation research models. Melanotan II is investigated for melanocortin receptor binding and pigmentation pathway signalling; GHK-Cu for collagen and elastin synthesis and tissue remodelling; Glutathione for cellular antioxidant activity and redox homeostasis. Frequently used together in skin biology and cellular protection research. Three individual vials. For in vitro research use only.",
+    "sizes": [
+      {
+        "l": "Melanotan II 10mg + GHK-Cu 100mg + Glutathione 1500mg",
+        "p": 95.97
+      }
+    ],
+    "sale": true,
+    "orig": 119.97,
+    "badge": "Stack — 20% off"
+  },
+  {
+    "id": 107,
+    "name": "Ultimate Repair Stack",
+    "full": "BPC-157 + TB-500 + GHK-Cu",
+    "cat": "stacks",
+    "cl": "cc-st",
+    "catLbl": "STACK",
+    "cas": "137525-51-0 / 77591-33-4 / 49557-75-7",
+    "formula": "BPC-157 10mg · TB-500 10mg · GHK-Cu 100mg",
+    "purity": 98.9,
+    "desc": "Research bundle combining three of the most studied tissue-focused peptides in preclinical repair research. BPC-157 is investigated for blood vessel formation, wound closure, and mucosal protection; TB-500 for actin regulation and cellular migration in tissue organisation; GHK-Cu for collagen synthesis and tissue remodelling. Together they cover vascular, cellular, and structural aspects of tissue repair pathway research. Three individual lyophilised vials. For in vitro research use only.",
+    "sizes": [
+      {
+        "l": "BPC-157 10mg + TB-500 10mg + GHK-Cu 100mg",
+        "p": 87.97
+      }
+    ],
+    "sale": true,
+    "orig": 109.97,
+    "badge": "Stack — 20% off"
+  },
+  {
+    "id": 108,
+    "name": "Repair & Metabolic Stack",
+    "full": "Retatrutide + BPC-157 + TB-500",
+    "cat": "stacks",
+    "cl": "cc-st",
+    "catLbl": "STACK",
+    "cas": "n/a / 137525-51-0 / 77591-33-4",
+    "formula": "Retatrutide 20mg · BPC-157 10mg · TB-500 10mg",
+    "purity": 98.8,
+    "desc": "Research bundle pairing Retatrutide's triple-receptor metabolic pathway coverage (GLP-1, GIP, and glucagon) with the two most widely studied preclinical repair peptides. BPC-157 is investigated for tissue repair, angiogenesis, and mucosal protection; TB-500 for cellular migration and actin-mediated tissue organisation. Allows researchers to study metabolic and tissue pathway interactions within a single protocol. Three individual lyophilised vials. For in vitro research use only.",
+    "sizes": [
+      {
+        "l": "Retatrutide 20mg + BPC-157 10mg + TB-500 10mg",
+        "p": 135.97
+      }
+    ],
+    "sale": true,
+    "orig": 169.97,
+    "badge": "Stack — 20% off"
+  },
+  {
+    "id": 109,
+    "name": "GH & Metabolic Stack",
+    "full": "Retatrutide + Tesamorelin",
+    "cat": "stacks",
+    "cl": "cc-st",
+    "catLbl": "STACK",
+    "cas": "n/a / 218949-48-9",
+    "formula": "Retatrutide 20mg · Tesamorelin 15mg",
+    "purity": 98.6,
+    "desc": "Research bundle pairing two compounds investigated across metabolic and growth hormone pathways. Retatrutide simultaneously engages GLP-1, GIP, and glucagon receptors in metabolic regulation research; Tesamorelin is a clinically researched GHRH analogue studied for GH secretion, IGF-1 pathway activity, and visceral fat distribution. Together they provide coverage of the primary growth and metabolic signalling axes studied in preclinical research. Two individual lyophilised vials. For in vitro research use only.",
+    "sizes": [
+      {
+        "l": "Retatrutide 20mg + Tesamorelin 15mg",
+        "p": 167.98
+      }
+    ],
+    "sale": true,
+    "orig": 209.98,
+    "badge": "Stack — 20% off"
+  },
+  {
+    "id": 23,
+    "name": "Dihexa",
+    "full": "Angiotensin IV-Derived Oligopeptide",
+    "cat": "cognitive",
+    "cl": "cc-c",
+    "catLbl": "COGNITIVE",
+    "cas": "1401708-83-5",
+    "formula": "C₁₅H₂₄N₄O₃",
+    "purity": 98.5,
+    "desc": "A synthetic peptide derived from an angiotensin IV analogue, engineered to resist enzymatic breakdown for greater stability in biological environments. Preclinical research investigates its interaction with the HGF/c-Met signalling axis — a pathway associated with the formation and strengthening of synaptic connections between brain cells. Rodent experiments have examined dendritic spine density (a structural measure of synaptic connectivity) and spatial memory task performance in animal models. Among the newer compounds in cognitive neuroscience peptide research. For in vitro research use only. HPLC purity 98.5%.",
+    "sizes": [
+      {
+        "l": "10mg",
+        "p": 64.99
+      }
+    ],
+    "sale": false,
+    "orig": null,
+    "badge": "New"
+  },
+  {
+    "id": 112,
+    "name": "Advanced Cognitive Stack",
+    "full": "Semax + Selank + Dihexa",
+    "cat": "stacks",
+    "cl": "cc-st",
+    "catLbl": "STACK",
+    "cas": "80714-61-0 / 129954-34-3 / 1401708-83-5",
+    "formula": "Semax 10mg · Selank 10mg · Dihexa 10mg",
+    "purity": 98.5,
+    "desc": "Research bundle combining three compounds studied across distinct but complementary neurological pathways. Semax is investigated for BDNF expression and neuroprotection in brain tissue models; Selank for anxiolytic-like profiles and serotonergic/GABAergic pathway modulation; Dihexa for HGF/c-Met receptor signalling and hippocampal synaptic density. Together they represent a broad-coverage neurological pathway research toolkit. Three individual lyophilised vials. For in vitro research use only.",
+    "sizes": [
+      {
+        "l": "Semax 10mg + Selank 10mg + Dihexa 10mg",
+        "p": 107.99
+      }
+    ],
+    "sale": true,
+    "orig": 134.97,
+    "badge": "Stack — 20% off"
+  }
+]
